@@ -1,2 +1,4 @@
-# Image_stegnography
-Image stegnography By Noel
+Image stegnography
+
+Please dont copy or take away my code 
+
